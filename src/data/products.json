@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "name": "Coca Cola 500ml",
+    "price": 2.5,
+    "barcode": "5000112637599",
+    "category": "Beverages",
+    "stock": 150,
+    "image": "https://images.unsplash.com/photo-1716800586014-fea19e9453fb?q=80&w=834&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "2",
+    "name": "Fresh Bread Loaf",
+    "price": 3.99,
+    "barcode": "5000112637601",
+    "category": "Bakery",
+    "stock": 45,
+    "image": "https://plus.unsplash.com/premium_photo-1675727572780-522e305f1374?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "3",
+    "name": "Organic Milk 1L",
+    "price": 4.5,
+    "barcode": "5000112637602",
+    "category": "Dairy",
+    "stock": 80,
+    "image": "https://images.unsplash.com/photo-1555910114-d4ba95cc20e2?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "4",
+    "name": "Apple Juice 1L",
+    "price": 5.25,
+    "barcode": "5000112637603",
+    "category": "Beverages",
+    "stock": 60,
+    "image": "https://images.unsplash.com/photo-1626120032630-b51c96a544f5?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "5",
+    "name": "Eggs (12 pack)",
+    "price": 6.99,
+    "barcode": "5000112637604",
+    "category": "Dairy",
+    "stock": 120,
+    "image": "https://plus.unsplash.com/premium_photo-1676686125407-227f3d352df8?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "6",
+    "name": "White Rice 5kg",
+    "price": 15.99,
+    "barcode": "5000112637605",
+    "category": "Grains",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1686820740687-426a7b9b2043?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "7",
+    "name": "Chicken Breast 1kg",
+    "price": 12.5,
+    "barcode": "5000112637606",
+    "category": "Meat",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "8",
+    "name": "Fresh Tomatoes 1kg",
+    "price": 4.25,
+    "barcode": "5000112637607",
+    "category": "Vegetables",
+    "stock": 90,
+    "image": "https://plus.unsplash.com/premium_photo-1723377607590-5aac4e48bb06?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "9",
+    "name": "Pasta 500g",
+    "price": 3.5,
+    "barcode": "5000112637608",
+    "category": "Grains",
+    "stock": 110,
+    "image": "https://images.unsplash.com/photo-1685214743111-f0756f24144c?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "10",
+    "name": "Olive Oil 750ml",
+    "price": 18.99,
+    "barcode": "5000112637609",
+    "category": "Condiments",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?q=80&w=836&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "11",
+    "name": "Cheese Block 500g",
+    "price": 9.99,
+    "barcode": "5000112637610",
+    "category": "Dairy",
+    "stock": 55,
+    "image": "https://plus.unsplash.com/premium_photo-1700836214483-5f546a29d65f?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "12",
+    "name": "Coffee Beans 250g",
+    "price": 14.5,
+    "barcode": "5000112637611",
+    "category": "Beverages",
+    "stock": 70,
+    "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?q=80&w=1522&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "13",
+    "name": "Chocolate Bar",
+    "price": 2.99,
+    "barcode": "5000112637612",
+    "category": "Snacks",
+    "stock": 200,
+    "image": "https://plus.unsplash.com/premium_photo-1677678736472-3f7498116754?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "14",
+    "name": "Potato Chips 150g",
+    "price": 3.75,
+    "barcode": "5000112637613",
+    "category": "Snacks",
+    "stock": 180,
+    "image": "https://images.unsplash.com/photo-1694101493243-864532ed5bce?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "15",
+    "name": "Mineral Water 1.5L",
+    "price": 1.5,
+    "barcode": "5000112637614",
+    "category": "Beverages",
+    "stock": 250,
+    "image": "https://plus.unsplash.com/premium_photo-1681284939219-acfc2faa7eb8?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
