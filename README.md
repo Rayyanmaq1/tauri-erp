@@ -50,7 +50,7 @@ A modern, responsive Point of Sale (POS) system built with Tauri, React, and Typ
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Rayyanmaq1/tauri-erp.git)
    cd tauri-app
    ```
 
